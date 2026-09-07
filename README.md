@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/vickyx608-lab/problem-solving-testing/tree/master/0905-sort-array-by-parity) |
+| [1480-running-sum-of-1d-array](https://github.com/vickyx608-lab/problem-solving-testing/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/vickyx608-lab/problem-solving-testing/tree/master/0905-sort-array-by-parity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vickyx608-lab/problem-solving-testing/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
